@@ -77,6 +77,8 @@ h3 + hr {
   margin-bottom: 0;
 }
 
+section.page-header {border-style: double;}
+
 footer {
     font-size: 13px;
     color: #ccc;
