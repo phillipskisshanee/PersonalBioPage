@@ -12,6 +12,9 @@ body {
   background-color: #FF99FF;
 }
 
+.main-content {
+  text-align: left;
+}
 .container {
   max-width: 1200px;
   min-height: 1200px;
