@@ -1,4 +1,6 @@
-
+#grad {
+  background: repeating-radical-gradient(#CC0066, C0C0C0 10%, FFFFFF 15%;
+}
 body {
   padding: 0 1rem;
   margin: 0;
