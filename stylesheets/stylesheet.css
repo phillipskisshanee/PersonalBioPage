@@ -9,7 +9,7 @@ body {
   line-height: 1.5;
   color: #585858;
   text-align: center;
-  background-image: url("../Images/1.jeg");
+  background-color: #787878;
 }
 
 .container {
@@ -20,6 +20,7 @@ body {
   margin: 0 auto;
   padding: 1rem 2rem;
   text-align: center;
+  background-color: #787878;
 }
 
 section {
