@@ -20,7 +20,7 @@ body {
   margin: 0 auto;
   padding: 1rem 2rem;
   text-align: center;
-  background-color: #787878;
+  background-image: url("Images/pattern.jpg");
 }
 
 section {
